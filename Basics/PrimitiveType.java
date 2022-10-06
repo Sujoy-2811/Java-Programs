@@ -1,13 +1,11 @@
 public class PrimitiveType {
     public static void main(String[] args) {
         int val = 50;
-        valueChange(val);
+        int var = val;
+        var = 10;
 
-        System.out.println(val);
-    }
-
-    static void valueChange(int x) {
-        x = 10;
+        System.out.println("Value of val : " + val);
+        System.out.println("Value of var : " + var);
     }
 
 }
