@@ -17,5 +17,6 @@ public class LogicalOperator {
         } else {
             System.out.println("try again");
         }
+        sc.close();
     }
 }
