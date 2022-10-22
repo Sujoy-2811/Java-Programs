@@ -1,4 +1,4 @@
-public class AutoBoxingAndUnboxing {
+public class _006_AutoBoxingAndUnboxing {
     public static void main(String[] args) {
         int x = 10;
         // Autoboxing

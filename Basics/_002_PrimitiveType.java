@@ -1,4 +1,4 @@
-public class PrimitiveType {
+public class _002_PrimitiveType {
     public static void main(String[] args) {
         int val = 50;
         int var = val;

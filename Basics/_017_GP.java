@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GP {
+public class _017_GP {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * LogicalOperator
  */
-public class LogicalOperator {
+public class _014_LogicalOperator {
 
     public static void main(String[] args) {
         String usr = "sujoy", pwd = "123";

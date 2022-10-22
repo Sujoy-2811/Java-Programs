@@ -1,4 +1,4 @@
-public class TypeConversion {
+public class _007_TypeConversion {
     public static void main(String[] args) {
 
         // Type conversion implicit

@@ -1,4 +1,4 @@
-public class NonPrimitiveType {
+public class _003_NonPrimitiveType {
 
     public static void main(String[] args) {
         Test obj1 = new Test();

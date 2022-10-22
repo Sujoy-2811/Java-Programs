@@ -1,4 +1,4 @@
-public class WrapperClass {
+public class _005_WrapperClass {
     public static void main(String[] args) {
         Integer x = 500, y = 500;
         System.out.println("value of x : " + x);
