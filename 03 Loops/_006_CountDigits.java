@@ -12,5 +12,6 @@ public class _006_CountDigits {
             count++;
         }
         System.out.println(num + " has " + count + " digits.");
+        sc.close();
     }
 }

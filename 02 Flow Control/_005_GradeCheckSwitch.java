@@ -1,4 +1,3 @@
-import java.lang.management.GarbageCollectorMXBean;
 import java.util.Scanner;
 
 public class _005_GradeCheckSwitch {
