@@ -6,6 +6,7 @@ public class _008_Factorial {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number :");
         int num = sc.nextInt();
+        sc.close();
         n = num;
         for (; n > 0; n--) {
             i *= n;

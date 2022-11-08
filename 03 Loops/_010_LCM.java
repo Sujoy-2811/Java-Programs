@@ -8,6 +8,7 @@ public class _010_LCM {
         a = sc.nextInt();
         System.out.println("Enter 2nd number :");
         b = sc.nextInt();
+        sc.close();
         if (a == b) {
             GCD = a;
 

@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.net.ssl.SNIMatcher;
-
 public class _009_GCD {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -10,6 +8,7 @@ public class _009_GCD {
         a = sc.nextInt();
         System.out.println("Enter 2nd number :");
         b = sc.nextInt();
+        sc.close();
         if (a == b) {
             System.out.println("GCD of both number is " + a);
             return;
